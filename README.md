@@ -17,8 +17,8 @@ Source organization: `declarative-migrations`
 
 | Source | Commit | Branch observed |
 |---|---:|---|
-| `declarative-migrations/homebrew-tap` | `2fea21c012a1c308353cda5104f86c81193c1037` | `main` |
-| `declarative-migrations/declarative-postgres-migrate.rs` | `21eb846e356b2a5aff068b21e77903e6cca50452` | `main` |
+| `declarative-migrations/homebrew-tap` | `d5f06bf0c4f98eb4f9cd888ba6ac1fe9c1a0c020` | `main` |
+| `declarative-migrations/declarative-postgres-migrate.rs` | `c1e0d15c08d55d52909b6eb2b2d5290529ce0114` | `main` |
 
 ## Dependency lanes
 
