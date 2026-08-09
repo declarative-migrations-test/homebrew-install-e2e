@@ -3,12 +3,12 @@
   "sources": {
     "declarative-migrations/homebrew-tap": {
       "branch": "main",
-      "sha": "2fea21c012a1c308353cda5104f86c81193c1037",
+      "sha": "d5f06bf0c4f98eb4f9cd888ba6ac1fe9c1a0c020",
       "exists": true
     },
     "declarative-migrations/declarative-postgres-migrate.rs": {
       "branch": "main",
-      "sha": "21eb846e356b2a5aff068b21e77903e6cca50452",
+      "sha": "c1e0d15c08d55d52909b6eb2b2d5290529ce0114",
       "exists": true
     }
   }
